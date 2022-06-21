@@ -1,2 +1,2 @@
-# dfg-spp-22
+# DFG SPP 2037 Summer School
 Repository for DFG SPP summer school website
