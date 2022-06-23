@@ -2337,7 +2337,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-content h6 {
     text-transform: uppercase;
-    color: #066;
+    color: #5bc2ce;
     letter-spacing: 3;
     font-weight: 400
 }
@@ -2355,7 +2355,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-content .lnr {
-    color: #066;
+    color: #5bc2ce;
     margin-right: 10px
 }
 
@@ -3040,7 +3040,7 @@ h6 {
 
 .footer-text a,
 .footer-text i {
-    color: #066
+    color: #5bc2ce
 }
 
 .whole-wrap {
