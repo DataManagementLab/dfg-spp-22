@@ -1927,6 +1927,9 @@ h6 {
     border-left: 4px solid #066
 }
 
+
+/* added max width instead of fixed width*/
+
 #header #logo img {
     padding: 0;
     margin: 0;
